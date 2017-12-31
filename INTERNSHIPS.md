@@ -22,7 +22,10 @@ Coinbase
   
 ConsenSys
   - [Ethereum Developer](https://goo.gl/WddthA)
-  
+
+Desiring God
+  - [Front Developer & Software Engineers](https://goo.gl/unVmfm)
+
 Dropbox
   - [Software Engineer](https://goo.gl/WeP4em)
 
@@ -47,7 +50,6 @@ LinkedIn
 
 Microsoft
   - [Software Development](https://careers.microsoft.com/students/apply?jt=2)
-  
 
 Motorola
  - [Software Developer Intership](https://goo.gl/LqUNMJ)
@@ -61,7 +63,10 @@ Pandora
 [Roblox](https://corp.roblox.com/)
   - [Client Intern](https://corp.roblox.com/jobs/?gh_jid=832369&gh_src=65ebfw1)
   - [Web Intern](https://corp.roblox.com/jobs/?gh_jid=825608)
- 
+
+Squarespace
+  - [Software Engineer - Machine Learning](https://www.squarespace.com/careers/jobs/786395)
+
 Tesla
   - [Software Engineering](https://goo.gl/R7NzdE)
  
