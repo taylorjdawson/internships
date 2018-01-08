@@ -10,8 +10,8 @@ Apple
   - [ ] [Internships](https://goo.gl/mXJzGY)
 
 [Blockchain](https://www.blockchain.com/)
-  - [ ] [Javascript Developer](https://goo.gl/Z68m6G)
-  - [ ] [Platform Developer](https://goo.gl/wtHvUu)
+  - [x] [Javascript Developer](https://goo.gl/Z68m6G)
+  - [x] [Platform Developer](https://goo.gl/wtHvUu)
   
 [Bloomberg](https://www.bloomberg.com/)
   - [ ] [Software Engineer - Industrial Placement](https://careers.bloomberg.com/job/detail/61274)
