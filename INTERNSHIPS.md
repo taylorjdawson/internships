@@ -21,10 +21,13 @@ Coinbase
   - [ ] [Software Engineer - GDAX](https://goo.gl/LvAWoz)
   
 ConsenSys
-  - [ ] [Ethereum Developer](https://goo.gl/WddthA)
+  - [x] [Ethereum Developer](https://goo.gl/WddthA)
 
 Desiring God
   - [ ] [Front Developer & Software Engineers](https://goo.gl/unVmfm)
+
+Digital Asset
+  - [x] [Software Engineer](https://goo.gl/zPCBrQ)
 
 Dropbox
   - [ ] [Software Engineer](https://goo.gl/WeP4em)
