@@ -24,7 +24,7 @@ ConsenSys
   - [x] [Ethereum Developer](https://goo.gl/WddthA)
 
 Desiring God
-  - [ ] [Front Developer & Software Engineers](https://goo.gl/unVmfm)
+  - [x] [Front Developer & Software Engineers](https://goo.gl/unVmfm)
 
 Digital Asset
   - [x] [Software Engineer](https://goo.gl/zPCBrQ)
