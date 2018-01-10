@@ -42,7 +42,7 @@ Facebook
   - [ ] [Software Engineering, Tel Aviv, Israel](https://goo.gl/eqT9Zi)
  
 Faithlife
-  - [ ] [Software Development](https://faithlife.com/devinterns)
+  - [x] [Software Development](https://faithlife.com/devinterns)
 
 Intel
   - [ ] [Internships](https://goo.gl/ZwieWj)
