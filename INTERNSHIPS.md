@@ -39,7 +39,7 @@ Ebay
 
 Facebook
   - [ ] [Front End Engineer](https://goo.gl/cBFW2S)
-  - [ ] [Software Engineering, Tel Aviv, Israel](https://goo.gl/eqT9Zi)
+  - [x] [Software Engineering, Tel Aviv, Israel](https://goo.gl/eqT9Zi)
  
 Faithlife
   - [x] [Software Development](https://faithlife.com/devinterns)
