@@ -71,7 +71,7 @@ Squarespace
   - [ ] [Software Engineer - Machine Learning](https://www.squarespace.com/careers/jobs/786395)
 
 Tesla
-  - [ ] [Software Engineering](https://goo.gl/R7NzdE)
+  - [x] [Software Engineering](https://goo.gl/R7NzdE)
  
 [Tile](https://www.thetileapp.com/)
   - [ ] [Engineering Internships](https://goo.gl/VwQGyG)
@@ -80,8 +80,8 @@ Tesla
   - [ ] [Software Engineer](https://goo.gl/jvM1UH)
 
 Twitter
-  - [ ] [2018 University Application](https://goo.gl/74mVbU)
+  - [x] [2018 University Application](https://goo.gl/74mVbU)
 
 Vimeo
-  - [ ] [Upload Engineering](https://goo.gl/ppP8BV)
-  - [ ] [Mobile Engineering](https://goo.gl/kRtH3n)
+  - [x] [Upload Engineering](https://goo.gl/ppP8BV)
+  - [x] [Mobile Engineering](https://goo.gl/kRtH3n)
